@@ -1,0 +1,134 @@
+[
+  {
+    "name": "lucas",
+    "lastName": "prieto",
+    "dni": "555151515",
+    "email": "mail1@mail.io",
+    "matricula": "54CgB",
+    "fechaMatriculacion": "20/4/2023",
+    "materia": [
+      {
+        "materia": "quimica",
+        "nota": "3"
+      },
+      {
+        "materia": "historia",
+        "nota": "4"
+      },
+      {
+        "materia": "matematica",
+        "nota": "8"
+      }
+    ]
+  },
+  {
+    "name": "pepe",
+    "lastName": "Arturia",
+    "dni": "65412398",
+    "email": "mail3@mail.io",
+    "matricula": "56a7Cd",
+    "fechaMatriculacion": "20/4/2023",
+    "materia": [
+      {
+        "materia": "lengua",
+        "nota": "8"
+      },
+      {
+        "materia": "quimica",
+        "nota": "10"
+      },
+      {
+        "materia": "matematica",
+        "nota": "4"
+      }
+    ]
+  },
+  {
+    "name": "sofia",
+    "lastName": "luna",
+    "dni": "45819763",
+    "email": "mail4@mail.io",
+    "matricula": "58",
+    "fechaMatriculacion": "20/4/2023",
+    "materia": [
+      {
+        "materia": "lengua",
+        "nota": "6"
+      },
+      {
+        "materia": "historia",
+        "nota": "7"
+      },
+      {
+        "materia": "quimica",
+        "nota": "4"
+      }
+    ]
+  },
+  {
+    "name": "tito",
+    "lastName": "puentes",
+    "dni": "26788",
+    "email": "mail5@lmail.com",
+    "matricula": "56FGty8",
+    "fechaMatriculacion": "19/4/2023, 00:00:00",
+    "materia": [
+      {
+        "materia": "lengua",
+        "nota": "8"
+      },
+      {
+        "materia": "historia",
+        "nota": "4"
+      },
+      {
+        "materia": "matematica",
+        "nota": "9"
+      }
+    ]
+  },
+  {
+    "name": "veronica",
+    "lastName": "patton",
+    "dni": "55555555",
+    "email": "mail6@mail.com",
+    "matricula": "io90Yu",
+    "fechaMatriculacion": "2023-02-14T03:00:00.000Z",
+    "materia": [
+      {
+        "materia": "matematica",
+        "nota": "8"
+      },
+      {
+        "materia": "historia",
+        "nota": "4"
+      },
+      {
+        "materia": "lengua",
+        "nota": "4"
+      }
+    ]
+  },
+  {
+    "name": "gimena",
+    "lastName": "chill",
+    "dni": "45791296",
+    "email": "chil@chilk.oi",
+    "matricula": "5sa54d",
+    "fechaMatriculacion": "2023-04-21T03:00:00.000Z",
+    "materia": [
+      {
+        "materia": "lengua",
+        "nota": "4"
+      },
+      {
+        "materia": "matematica",
+        "nota": "5"
+      },
+      {
+        "materia": "historia",
+        "nota": "6"
+      }
+    ]
+  }  
+]

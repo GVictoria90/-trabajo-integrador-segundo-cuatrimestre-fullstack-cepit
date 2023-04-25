@@ -1,0 +1,57 @@
+[
+  {
+    "name": "juan",
+    "lastName": "sarmiento",
+    "dni": "12345678",
+    "email": "profe@profe.io",
+    "materia": "matematica",
+    "contrato": {
+      "startingDate": "5/1/2020, 00:00:00",
+      "expiringDate": "4/1/2025, 00:00:00"
+    }
+  },
+  {
+    "name": "maria",
+    "lastName": "perez",
+    "dni": "12345679",
+    "email": "profe2@mail.io",
+    "materia": "historia",
+    "contrato": {
+      "startingDate": "1/4/2023, 00:00:00",
+      "expiringDate": "30/3/2032, 00:00:00"
+    }
+  },
+  {
+    "name": "julia",
+    "lastName": "gonzalez",
+    "dni": "12345680",
+    "email": "profe3@mail.io",
+    "materia": "quimica",
+    "contrato": {
+      "startingDate": "10/1/2023, 00:00:00",
+      "expiringDate": "30/3/2032, 00:00:00"
+    }
+  },
+  {
+    "name": "pedro",
+    "lastName": "gomez",
+    "dni": "12345681",
+    "email": "profe4@mail.io",
+    "materia": "lengua",
+    "contrato": {
+      "startingDate": "10/1/2023, 00:00:00",
+      "expiringDate": "30/3/2032, 00:00:00"
+    }
+  },
+  {
+    "name": "fernando",
+    "lastName": "robledo",
+    "dni": "1234687",
+    "email": "profe5@mail.io",
+    "materia": "biologia",
+    "contrato": {
+      "startingDate": "24/4/2023, 00:00:00",
+      "expiringDate": "23/4/2023, 00:00:00"
+    }
+  }
+]
